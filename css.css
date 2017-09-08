@@ -1,0 +1,40 @@
+body {
+    background-image: url(aruba.png);
+    background-size: cover;
+    color: white;
+  }
+
+p {
+    text-align: center;
+}
+ul{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+  text-align: center;
+}
+h3{
+    text-align: center;
+}
+img{
+  display: block;
+  margin:auto;
+}
+a {
+  display: block;
+  width: 200px;
+  margin: 0 auto;
+  color: gold;
+}
+
+*{
+  font-family:Georgia;0
+}
+
+a:visited {
+    color: pink;
+}
